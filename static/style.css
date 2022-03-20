@@ -1,3 +1,47 @@
-h1 {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+
+
+.head-div {
+  padding: 10px;
+  
+  position: absolute;
+  width: 428px;
+  height: 258px;
+  left: 0px;
+  top: -20px;
+  background: #3DEA97;
+}
+.head-div p {
+  position: static;
+  width: 125px;
+  height: 48px;
+  left: 21px;
+  top: 13px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 42px;
+
+  color: #000000;
+
+}
+.head-div h1 {
+  position: static;
+  width: 385px;
+  height: 129px;
+  left: 21px;
+  top: 72px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 108px;
+
+  color: #FFFFFF;
+
 }
